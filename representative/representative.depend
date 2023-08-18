@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662138419 source:d:\work\wipro\prp\codeexpress\pracc\representative\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

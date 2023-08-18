@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657195658 source:d:\work\wipro\prp\codeexpress\pracc\halindrome\main.cpp
+	<iostream>
+	<string.h>
+	<bits/stdc++.h>
+

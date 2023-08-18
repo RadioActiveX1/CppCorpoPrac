@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656360401 source:d:\work\wipro\prp\codeexpress\pracc\lcs\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
